@@ -1,0 +1,69 @@
+Variable and Methods
+Small info abt Attributes and Methods
+
+University Class: Attributes(VARIABLES)
+
+Name: The name of the university.
+Location: The physical location where the university is situated.
+Number of Students: The total number of students enrolled in the university.
+Faculty Members: The total count of faculty members working in the university.
+Courses Offered: A list of courses offered by the university.
+Behaviors(METHODS)
+
+Enroll Student: Method to enroll a student in the university.
+Hire Faculty: Method to hire a faculty member.
+Offer Course: Method to add a new course to the university's curriculum.
+Organize Events: Method to organize events such as seminars, workshops, etc.
+Bank Class: Attributes
+
+Name: The name of the bank.
+Location: The physical location of the bank branch.
+Total Assets: The total value of assets held by the bank.
+Number of Accounts: The total number of accounts held by the bank.
+Interest Rate: The interest rate offered by the bank on savings or loan accounts.
+Behaviors
+
+Open Account: Method to open a new account for a customer.
+Close Account: Method to close an existing account.
+Process Transaction: Method to process deposits, withdrawals, or transfers.
+Calculate Interest: Method to calculate interest for savings accounts.
+Theatre Class: Attributes
+
+Name: The name of the theatre.
+Location: The physical location of the theatre.
+Seating Capacity: The total number of seats available in the theatre.
+Show Timings: The schedule of shows (e.g., movies, plays) at the theatre.
+Ticket Prices: The prices of tickets for different types of shows.
+Behaviors
+
+Sell Tickets: Method to sell tickets for a show.
+Reserve Seats: Method to reserve seats for customers.
+Display Schedule: Method to display the schedule of shows.
+Cancel Show: Method to cancel a scheduled show.
+Radio Class: Attributes
+
+Name: The name of the radio station.
+Frequency: The frequency at which the radio station broadcasts.
+Programs: The list of programs aired by the radio station.
+Listenership: The number of listeners tuned in to the radio station.
+Behaviors
+
+Broadcast Program: Method to broadcast a program.
+Change Frequency: Method to change the frequency of the radio station.
+Advertise: Method to advertise products or services on the radio.
+Collect Feedback: Method to collect feedback from listeners.
+#JAVA and its Architecture
+
+Java works through a combination of its language features, virtual machine architecture, and extensive library support.
+
+Writing Code: You write Java code using a text editor or a specialized program like IntelliJ IDEA.
+
+Compilation: Your Java code gets translated into a special kind of code called "bytecode."
+
+Java Virtual Machine (JVM): This bytecode can run on any device with a JVM. It's like a translator that turns bytecode into instructions your computer understands.
+
+Platform Independence: Because of the JVM, Java programs can run on different types of devices without needing to be rewritten.
+
+Java API: Java comes with a bunch of pre-made tools and functions called the Java API. You can use these to do lots of different things without starting from scratch.
+
+Execution: Once translated by the JVM, your code runs on the device just like any other program.
